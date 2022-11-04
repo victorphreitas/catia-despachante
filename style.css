@@ -350,6 +350,11 @@ form button {
     right: 30px;
     bottom: 35px;
   }
+  
+  #fixed-wpp-link img:active {
+    right: 31px;
+    bottom: 36px;
+  }
 }
 
 @media screen and (max-width: 1190px) {
